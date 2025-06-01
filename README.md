@@ -39,16 +39,21 @@ Este projeto é ideal para quem está iniciando com Git e GitHub e deseja aprend
 
 ├── README.md 
     https://github.com/Hendreu04/manual-git-grupo5/blob/main/README.md
+    
 ├── 01-introducao.md 
     https://github.com/Hendreu04/manual-git-grupo5/blob/main/01-Introducao.md
 ├── 02-instalacao-configuracao.md 
     https://github.com/Hendreu04/manual-git-grupo5/blob/main/02-Instala%C3%A7%C3%A3o%20e%20Configura%C3%A7%C3%A3o%20do%20Git.md
+    
 ├── 03-comandos-basicos.md 
     https://github.com/Hendreu04/manual-git-grupo5/blob/main/03-Comandos%20Basicos.md
+    
 ├── 04-ramificacoes-merge.md 
     https://github.com/Hendreu04/manual-git-grupo5/blob/main/04-Branches_merge.md
+    
 ├── 05-pull-requests.md 
     https://github.com/Hendreu04/manual-git-grupo5/blob/main/05-GitHub_e_Pull_Requests.md
+    
 └── /imagens
     https://github.com/Hendreu04/manual-git-grupo5/blob/main/README.md
     
