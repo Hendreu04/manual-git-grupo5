@@ -27,12 +27,12 @@ Este projeto é ideal para quem está iniciando com Git e GitHub e deseja aprend
 
 *Nomes dos integrantes com links para os perfis no GitHub :
 
--Hendreu Satoshi Zampieri Itami (https://github.com/Hendreu04)
--Rafael Henrique Morais Santos da Silva (https://github.com/Rafazod)
--Gabriel da Silva Freitas (https://github.com/gabrielsf44)
--Wallace Gabriel (https://github.com/CriminalBR)
--Kaiy Massaki (https://github.com/ShibaDX)
--Brayan (https://github.com/prozzin)
+-Hendreu Satoshi Zampieri Itami (https://github.com/Hendreu04);
+-Rafael Henrique Morais Santos da Silva (https://github.com/Rafazod);
+-Gabriel da Silva Freitas (https://github.com/gabrielsf44);
+-Wallace Gabriel (https://github.com/CriminalBR);
+-Kaiy Massaki (https://github.com/ShibaDX);
+-Brayan (https://github.com/prozzin).
 
 
 *Índice com links para os módulos :
