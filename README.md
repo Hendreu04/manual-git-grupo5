@@ -42,6 +42,7 @@ Este projeto é ideal para quem está iniciando com Git e GitHub e deseja aprend
     
 ├── 01-introducao.md 
     https://github.com/Hendreu04/manual-git-grupo5/blob/main/01-Introducao.md
+    
 ├── 02-instalacao-configuracao.md 
     https://github.com/Hendreu04/manual-git-grupo5/blob/main/02-Instala%C3%A7%C3%A3o%20e%20Configura%C3%A7%C3%A3o%20do%20Git.md
     
