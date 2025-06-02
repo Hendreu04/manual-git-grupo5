@@ -1,7 +1,7 @@
 # Manual Colaborativo de Git e GitHub 
 
-*Apresentação do projeto :
-  Este projeto apresenta uma introdução prática ao controle de versão com Git e à colaboração utilizando o GitHub. O objetivo é mostrar como essas ferramentas resolvem problemas comuns no desenvolvimento de software, como perda de versões, conflitos entre arquivos e dificuldade de colaboração em equipe.Este repositório reúne um guia prático e didático sobre Git e GitHub, com foco em quem está começando no controle de versão e deseja entender como gerenciar projetos de forma segura, colaborativa e eficiente.
+**Apresentação do projeto** :
+  Este projeto apresenta uma introdução prática ao controle de versão com Git e à colaboração utilizando o GitHub. O objetivo é mostrar como essas ferramentas resolvem problemas comuns no desenvolvimento de software, como perda de versões, conflitos entre arquivos e dificuldade de colaboração em equipe. Este repositório reúne um guia prático e didático sobre Git e GitHub, com foco em quem está começando no controle de versão e deseja entender como gerenciar projetos de forma segura, colaborativa e eficiente.
 
 O conteúdo foi dividido em etapas essenciais:
 
@@ -25,17 +25,17 @@ Guia prático sobre como criar uma conta no GitHub, subir um repositório remoto
 
 Este projeto é ideal para quem está iniciando com Git e GitHub e deseja aprender na prática, passo a passo, com exemplos reais e comandos prontos para usar.
 
-*Nomes dos integrantes com links para os perfis no GitHub :
+### Nomes dos integrantes com links para os perfis no GitHub :
 
--Hendreu Satoshi Zampieri Itami (https://github.com/Hendreu04);
--Rafael Henrique Morais Santos da Silva (https://github.com/Rafazod);
--Gabriel da Silva Freitas (https://github.com/gabrielsf44);
--Wallace Gabriel (https://github.com/CriminalBR);
--Kaiy Massaki (https://github.com/ShibaDX);
--Brayan (https://github.com/prozzin).
+- Hendreu Satoshi Zampieri Itami (https://github.com/Hendreu04);
+- Rafael Henrique Morais Santos da Silva (https://github.com/Rafazod);
+- Gabriel da Silva Freitas (https://github.com/gabrielsf44);
+- Wallace Gabriel (https://github.com/CriminalBR);
+- Kaiky Massaki Ishibashi (https://github.com/ShibaDX);
+- Brayan (https://github.com/prozzin).
 
 
-*Índice com links para os módulos :
+### Índice com links para os módulos :
 
 ├── README.md 
     https://github.com/Hendreu04/manual-git-grupo5/blob/main/README.md
