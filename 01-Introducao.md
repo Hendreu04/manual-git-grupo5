@@ -1,40 +1,40 @@
-O que é Controle de Versão?
+# O que é Controle de Versão?
 Controle de versão é um sistema que registra alterações em arquivos ao longo do tempo, permitindo que você:
 
-Revise históricos de mudanças
+- Revise históricos de mudanças
 
-Volte para versões anteriores
+- Volte para versões anteriores
 
-Trabalhe em equipe de forma organizada
+- Trabalhe em equipe de forma organizada
 
-Gerencie diferentes versões do mesmo projeto
+- Gerencie diferentes versões do mesmo projeto
 
 É essencial para desenvolvimento de software, mas também útil para qualquer trabalho com arquivos digitais que sofrem alterações frequentes.
 
-Problemas resolvidos pelo Git
+# Problemas resolvidos pelo Git
 Antes do Git (e outros sistemas de controle de versão), desenvolvedores enfrentavam vários problemas:
 
-Colaboração difícil: Compartilhar código entre equipes era complicado
+- Colaboração difícil: Compartilhar código entre equipes era complicado
 
-Perda de versões: Sobrescrita acidental de arquivos sem backup
+- Perda de versões: Sobrescrita acidental de arquivos sem backup
 
-Conflitos: Dificuldade em mesclar alterações de diferentes pessoas
+- Conflitos: Dificuldade em mesclar alterações de diferentes pessoas
 
-Rastreamento: Não saber quem alterou o que e quando
+- Rastreamento: Não saber quem alterou o que e quando
 
-Experimentos arriscados: Medo de fazer mudanças que poderiam quebrar o sistema
+- Experimentos arriscados: Medo de fazer mudanças que poderiam quebrar o sistema
 
 O Git resolve esses problemas oferecendo:
 
-Histórico completo de todas as alterações
+- Histórico completo de todas as alterações
 
-Mecanismos para mesclar mudanças
+- Mecanismos para mesclar mudanças
 
-Capacidade de trabalhar offline
+- Capacidade de trabalhar offline
 
-Ramificação (branching) para experimentos seguros
+- Ramificação (branching) para experimentos seguros
 
-Breve Histórico do Git
+# Breve Histórico do Git
 2005: Criado por Linus Torvalds (o mesmo criador do Linux) para substituir um sistema proprietário usado no desenvolvimento do kernel Linux
 
 Objetivo inicial: Um sistema distribuído, rápido, eficiente e capaz de lidar com grandes projetos como o kernel Linux
@@ -43,9 +43,13 @@ Crescimento: Rapidamente adotado pela comunidade open source e depois por empres
 
 Atualmente: Tornou-se o sistema de controle de versão mais popular no mundo do desenvolvimento de software
 
-Diferença entre Git e GitHub
-Git
-O que é? Um sistema de controle de versão que salva o histórico das alterações dos arquivos.
+# Diferença entre Git e GitHub
+
+### Git
+
+O que é? 
+
+Um sistema de controle de versão que salva o histórico das alterações dos arquivos.
 
 Funcionamento: Roda no seu computador, sem necessidade de internet.
 
@@ -57,8 +61,11 @@ Permitir que várias pessoas trabalhem no mesmo código sem conflitos.
 
 Criar ramificações (branches) para testar novas ideias sem afetar o projeto principal.
 
-GitHub
-O que é? Uma plataforma online que usa o Git para armazenar projetos na nuvem.
+### GitHub
+
+O que é?
+
+Uma plataforma online que usa o Git para armazenar projetos na nuvem.
 
 Funcionamento: Requer internet para enviar e baixar projetos.
 
